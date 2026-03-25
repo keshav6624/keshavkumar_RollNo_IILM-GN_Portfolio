@@ -1,4 +1,3 @@
-# keshavkumar_RollNo_IILM-GN_Portfolio
 Keshav Kumar
 
 AI-Focused Software Engineer | Data Science & ML Enthusiast | Full Stack Developer
@@ -6,6 +5,7 @@ AI-Focused Software Engineer | Data Science & ML Enthusiast | Full Stack Develop
 🧑‍💻 About Me
 
 I am a B.Tech Computer Science student at IILM University, Greater Noida, with a strong focus on Artificial Intelligence, Machine Learning, and Full Stack Development.
+
 I specialize in building real-world AI-driven applications, data analytics systems, and scalable web solutions. I actively participate in hackathons, open-source contributions, and continuously improve my problem-solving and system design skills.
 
 🛠️ Technical Skills
@@ -43,17 +43,25 @@ Excel
 
 🔹 Credit Risk Prediction using Regression
 Built and deployed ML models using regression techniques to predict credit risk.
+
 Tools: Python, Pandas, Scikit-learn, Streamlit
+
 🔹 Shopping Trends Analysis & Prediction
 Developed a data analytics system to analyze and forecast shopping behavior.
+
 Tools: Python, NumPy, Matplotlib, TensorFlow, SQL, Tableau
+
 🔹 AI-Powered Job & Skill Recommendation Platform
 GenAI-based system that recommends job roles and skill paths using NLP & ML.
+
 Tools: NLP, TensorFlow, Embeddings, Scikit-learn
 🌐 Full Stack & Data Applications
+
 🔹 Data Analytics Dashboard (Internship Project)
 Built interactive dashboards to analyze customer and trip data.
+
 Focus: User behavior, engagement, business insights
+
 🔹 Streamlit-Based ML Applications
 Deployed multiple ML models as interactive web apps for real-time predictions.
 
@@ -81,7 +89,11 @@ Building Scalable Applications
 Problem Solving & Competitive Coding
 Sports & Exploration
 📫 Contact
+
 📧 Email: keshavkumarrai0604@gmail.com
+
 📱 Phone: +91-7479551289
+
 🔗 GitHub: https://github.com/keshav6626
+
 🔗 LinkedIn: https://linkedin.com/in/Keshav-kumar06
